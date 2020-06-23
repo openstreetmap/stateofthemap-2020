@@ -14,8 +14,3 @@ OSM Foundation board chairperson Allan Mustard offers his personal assessment of
 
 The abstract is pretty short: &#34;Winds of Change in OpenStreetMap&#34;:  OSM Foundation board chairperson Allan Mustard offers his personal assessment of challenges facing OSM and how he thinks the community and the OSM Foundation Board could deal with them.
 
-The abstract is pretty short: &#34;Winds of Change in OpenStreetMap&#34;:  OSM Foundation board chairperson Allan Mustard offers his personal assessment of challenges facing OSM and how he thinks the community and the OSM Foundation Board could deal with them.
-
-The abstract is pretty short: &#34;Winds of Change in OpenStreetMap&#34;:  OSM Foundation board chairperson Allan Mustard offers his personal assessment of challenges facing OSM and how he thinks the community and the OSM Foundation Board could deal with them.
-
-The abstract is pretty short: &#34;Winds of Change in OpenStreetMap&#34;:  OSM Foundation board chairperson Allan Mustard offers his personal assessment of challenges facing OSM and how he thinks the community and the OSM Foundation Board could deal with them.
