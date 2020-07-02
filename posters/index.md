@@ -2,7 +2,7 @@
 layout: page-with-toc
 title: "2020 Posters"
 titlecontent: ""
-headings: "agu-japan,fraxern-at,flagpoles,goat,up-youthmappers,ngong-kenya,tz,mental-health,colormap,cycle-routes,netcreate,running,nis,kathmandu,water"
+headings: "agu-japan,fraxern-at,flagpoles,goat,up-youthmappers,ngong-kenya,tz,mental-health,colormap,cycle-routes,netcreate,running,nis,kathmandu,water,un-mappers,hotph"
 ---
 
 Many followed the call for posters and the results are AMAZING. We thank all
@@ -83,3 +83,20 @@ Tourism supports economic sector of developing country like Nepal which provides
 European Water Project works to convince individuals to use water bottles that can be refilled in a sustainable way and avoid creating single-use plastic. European Water Project has created a Web App available in 8 languages which lets people find the nearest drinkable water fountain or “refill” café to refill their reusable water bottle. We embrace Open Data principles to meet these non-commercial objectives. All European Water Project Drinking Fountain and Refill café locations are stored in the OpenStreetMap and Wikidata databases. Fountain and café imagery is served from Wikimedia Commons, Mapillary, and the European Water Project server.
 
 [![](poster-water-preview.png)](poster-water.pdf)
+
+<h3 id="un-mappers">UN Mappers</h3>
+Unite Maps Initiative formerly named United Nations Dynamic TLM (Topographic
+Line Map) Production, is a mapping initiative to collaborate in peacekeeping,
+peacebuilding and conflict prevention activities. United Nations helps countries
+torn by conflict create conditions for lasting peace through the Department of
+Peacekeeping Operations (DPKO). [Read more...](poster-unmappers)
+
+[![](poster-unmappers-preview.png)](poster-unmappers.pdf)
+
+
+<h3 id="hotph">HOT, PH</h3>
+In partnership with the UP Resilience Institute (UPRI), the Humanitarian OpenStreetMap Team (HOT) - Philippines has completely mapped and validated building footprints in Quezon City, Metro Manila on OpenStreetMap as part of the response we are doing to end COVID-19 (#endcov). Quezon City is one of the most densely populated and hardest hit municipalities in the Philippines by COVID-19. The OSM building footprints were used by UPRI to develop a data-driven analysis and recommendation to the local government unit of Quezon City for the city's pandemic response. This is also part of the [PhilAWARE](https://www.hotosm.org/projects/data-driven-disaster-risk-management-philaware/) project to map the critical infrastructures across the Philippines. The mapping initiative started on April 20, 2020 through the HOT's Tasking Manager ([#8385](https://tasks.hotosm.org/projects/8385), [#8386](https://tasks.hotosm.org/projects/8386)). Through the help of 644 contributors around the world, 317,325 building footprints were added and validated to OSM in 62 days.
+
+We would like to take this opportunity to thank our amazing mappers, validators, and volunteers who tirelessly work on creating and maintaining the data quality in OSM that would surely help the local communities in our campaign to #endcov.
+
+[![](poster-hotph-preview.png)](poster-hotph.pdf)
