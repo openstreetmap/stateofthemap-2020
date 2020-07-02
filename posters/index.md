@@ -70,7 +70,7 @@ As a running coach I'm constantly having to conduct assessments on the suitabili
 [![](poster-running-preview.png)](poster-running.pdf) 
 
 <h3 id="nis">Niš, RS</h3>
-We used OSM data to detect best tourist (sub)zones in the city Niš (Serbia). We have tourist attractions such ad monuments, sacral objects, ambient whole, buildings,archaeological sites,fortress as well as restaurants and accommodations. Also, the important factor for the evaluation is street network for determining density and distance for emblematic area (most visited tourist area in Niš). Based on these elements, the area study was conducted.
+We used OSM data to detect best tourist (sub)zones in the city Niš (Serbia). We have tourist attractions such as monuments, sacral objects, ambient whole, buildings,archaeological sites,fortress as well as restaurants and accommodations. Also, the important factor for the evaluation is street network for determining density and distance for emblematic area (most visited tourist area in Niš). Based on these elements, the area study was conducted.
 
 [![](poster-nis-serbia-preview.png)](poster-nis-serbia.pdf) 
 
