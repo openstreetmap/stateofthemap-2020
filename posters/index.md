@@ -79,7 +79,7 @@ Tourism supports economic sector of developing country like Nepal which provides
  
 [![](poster-kathmandu-preview.png)](poster-kathmandu.pdf)
 
-<h3 id="water">EU Water</h3>
+<h3 id="water">European Water</h3>
 European Water Project works to convince individuals to use water bottles that can be refilled in a sustainable way and avoid creating single-use plastic. European Water Project has created a Web App available in 8 languages which lets people find the nearest drinkable water fountain or “refill” café to refill their reusable water bottle. We embrace Open Data principles to meet these non-commercial objectives. All European Water Project Drinking Fountain and Refill café locations are stored in the OpenStreetMap and Wikidata databases. Fountain and café imagery is served from Wikimedia Commons, Mapillary, and the European Water Project server.
 
 [![](poster-water-preview.png)](poster-water.pdf)
