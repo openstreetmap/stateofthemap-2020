@@ -5,6 +5,17 @@ titlecontent: ""
 headings: "agu-japan,fraxern-at,flagpoles,goat,up-youthmappers,ngong-kenya,tz,mental-health,colormap,cycle-routes,netcreate,running,nis,kathmandu,water,un-mappers,hotph"
 ---
 
+<style>
+  body {
+    counter-reset: poster-submission;
+  }
+  h3::before {
+    counter-increment: poster-submission;
+    content: "Poster " counter(poster-submission) " ";
+    font-weight: bold;
+  }
+</style>
+
 Many followed the call for posters and the results are AMAZING. We thank all
 participants for the great work. If you would like to submit more, gladly
 do, [info over here](/calls/posters)
