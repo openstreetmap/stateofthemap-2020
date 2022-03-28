@@ -232,7 +232,7 @@ interest situations:
   situation of horse trading). We act particularly carefully in cases we are
 related to a sponsor.
 * We communicate to other PC members when we are in a conflict of interest
-  situations.
+  situation.
 * We report any outside attempt of influencing their decisions to the chair of
   the SotM Working Group.
 
